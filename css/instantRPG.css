@@ -1,6 +1,6 @@
 body {
 font-family: 'Alegreya Sans SC', sans-serif;
-font-size: 1em;
+font-size: 0.75em;
 }
 a,
 a:link,
@@ -36,6 +36,14 @@ article header {
 article header, section {
     padding: 0.5em 1em;
 }
+
+article header a,
+article header a:link,
+article header a:hover,
+article header a:active,
+article header a:visited{
+  color: cornflowerblue;
+} 
 
 article span {
     white-space: nowrap;
