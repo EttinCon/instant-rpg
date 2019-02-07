@@ -1,4 +1,6 @@
-# ironsworn
-Ironsworn Move Reference Cards for Mobile Devices.
+# INSTANT RPG - mobile version
+Instant RPG for Mobile Devices.
 
-Try them yourself at https://elstiko.github.io/ironsworn
+Try it yourself at https://ettincon.github.io/instant-rpg/
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
