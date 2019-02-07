@@ -1,25 +1,15 @@
 body {
-  font-family: 'Merriweather', serif; 
+font-family: 'Alegreya Sans SC', sans-serif;
+font-size: 1em;
 }
 a,
 a:link,
 a:hover,
 a:active,
 a:visited {
-  color: rgba(102, 102, 102, 1);
+
 }
-nav {
-  background-color: #52767D;
-  color: white;
-  display: flex;
-  text-align: center;
-  padding: 0.25em;
-}
-nav a {
-    color: white !important;
-    flex: 1;
-    text-transform: uppercase;
-}
+
 .swipeView {
   display: grid;
   grid-template-columns: repeat(2, 100%);
@@ -34,8 +24,6 @@ nav a {
 
 article {
   border: 1px solid;
-  font-size: 2em;
-  line-height: 1.5em;
   margin: 0.25em;
   scroll-snap-align: center; 
   scroll-snap-stop: always;
@@ -55,17 +43,15 @@ article span {
 
 h1, h2 {
   color: white;
-  font-family: 'Domine', serif;
   margin: 0;
 }
 
 h2 {
-  font-size: 1em;
-  font-weight: 300;
+
 }
 
 li {
-  font-size: 0.5em;
+  font-style: italic;
 }
 
 article a {
@@ -74,25 +60,7 @@ article a {
 }
 
 article a:hover {
-	color: #52767D !important;
-}
 
-tbody tr:nth-of-type(odd) {
-    background-color: whitesmoke;
-}
-
-table:not(.oracle) tbody th {
-	text-align: center;
-}
-
-tbody th {
-	font-weight: normal;
-	white-space: nowrap;	
-}
-
-th, td {
-	padding: 0.25em;
-	font-size: 1em;
 }
 
 footer {
